@@ -2,7 +2,7 @@
 
 <p align="center">Automatically download your Spotify playlists.</p>
 
-*spotifydownload* is an [open-source](https://github.com/schollz/spotifydownload) tool that makes it easy to download your Spotify playlists, using [getsong](https://github.com/schollz/getsong) to find the corect song and download it and convert it to an mp3.
+*Spotify-Downloader* is an [open-source](https://github.com/neerajdeveloper/Downloader-For-Spotify) tool that makes it easy to download your Spotify playlists, using [getsong](https://github.com/neerajdeveloper/fetch-song) to find the corect song and download it and convert it to an mp3.
 
 ![Example](.github/sdown.gif)
 
@@ -12,12 +12,11 @@ Unlike other downloaders, there are no dependencies (other than ffmpeg which wil
 
 
 
-# Install
 
-Get the [latest release](https://github.com/schollz/spotifydownload/releases/latest) or install with `go get`:
+
 
 ```
-go get github.com/schollz/spotifydownload
+
 ```
 
 # Usage
@@ -48,7 +47,7 @@ which will execute it every 7 days so that you will never lose any songs in your
 
 ## Contributing
 
-Pull requests are welcome. Feel free to...
+
 
 - Revise documentation
 - Add new features
